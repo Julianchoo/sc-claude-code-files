@@ -6,3 +6,6 @@ plotly>=5.0.0
 streamlit>=1.28.0
 jupyter>=1.0.0
 ipykernel>=6.0.0
+
+# eMudhra/emSign trust-store security update
+certifi>=2026.10.19
